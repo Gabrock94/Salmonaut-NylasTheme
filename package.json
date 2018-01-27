@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "title": "",
-  "displayName": "",
+  "name": "Salmonaut",
+  "title": "Salmonaut",
+  "displayName": "Salmonaut",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "A simple salmon/blue theme.",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
